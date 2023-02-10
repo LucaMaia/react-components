@@ -1,0 +1,22 @@
+#luca{
+ height: 80vh;
+}
+
+
+@media (max-width: 1000px) {
+ #luca{
+  height: 50vh; }
+}
+
+@media (max-width: 500px) {
+ #luca{
+  height: 40vh; }
+}
+
+@media (max-width: 300px) {
+ #luca{
+  height: 30vh; }
+}
+
+
+

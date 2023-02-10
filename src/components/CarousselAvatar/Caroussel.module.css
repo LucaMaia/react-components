@@ -1,0 +1,26 @@
+.alinhamento_image{
+    display:flex!important;
+    justify-content:center!important;
+    padding-bottom:250px!important;
+    /*background-color: #C3C3C3;*/
+}
+
+.alinhamento_text{
+    color:black;
+    max-width:50%;
+    margin:0 auto;
+}
+
+.espacamento{
+    padding:20px;
+}
+
+.text_black{
+    color: black;
+}
+
+@media (max-width: 1000px) {
+    .alinhamento_text{
+        max-width:100%;
+    }
+}
